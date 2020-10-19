@@ -17,23 +17,23 @@ class ItemSeeder extends Seeder
         $randcode = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
         $seed_items = [
             [
-                'item_name'         => 'Kayu',
+                'item_name'         => 'kayu',
                 'item_description'  => 'ini deskripsi kayu',
             ],
             [
-                'item_name'         => 'Papan',
+                'item_name'         => 'papan',
                 'item_description'  => 'ini deskripsi papan',
             ],
             [
-                'item_name'         => 'Besi',
+                'item_name'         => 'besi',
                 'item_description'  => 'ini deskripsi besi',
             ],
             [
-                'item_name'         => 'Kaca',
+                'item_name'         => 'kaca',
                 'item_description'  => 'ini deskripsi kaca',
             ],
             [
-                'item_name'         => 'Plastik',
+                'item_name'         => 'plastik',
                 'item_description'  => 'ini deskripsi plastik',
             ],
         ];
